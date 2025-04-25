@@ -16,7 +16,7 @@ ValentinaZangirolami/ValentinaZangirolami is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ValentinaZangirolami.ValentinaZangirolami" alt="Visitor Count"/>
+<img src="https://komarev.com/ghpvc/?username=ValentinaZangirolami&label=Profile%20views&color=ce9927&style=flat" alt="ValentinaZangirolami" />
 <a style="text-decoration:none;" href="https://github.com/ValentinaZangirolami"> <img src="https://img.shields.io/github/followers/ValentinaZangirolami?label=follow&style=social" width="10%"/></a>
 </p>
 
