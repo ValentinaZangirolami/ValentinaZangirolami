@@ -8,6 +8,9 @@
   <a style="text-decoration:none;" href="mailto:valentina.zangirolami@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/></a>
   <a style="text-decoration:none;" href="https://www.linkedin.com/in/valentinazangirolami/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>
   <a style="text-decoration:none;" href="https://valentinazangirolami.github.io/"> <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="5%"/></a>
+  <a style="text-decoration:none;" href="https://gitlab.com/v.zangirolami">
+    <img src="https://img.icons8.com/color/48/000000/gitlab.png" width="5%"/>
+  </a>
 </p>
 
 
