@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valentina </h1>
+<h1 align="center">Hi 👋, I'm Valentina (乌缇娜) </h1>
 
 ## About me
 - I'm a PhD student in Statistics at University of Milano-Bicocca
