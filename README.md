@@ -23,12 +23,9 @@ You can click the Preview link to take a look at your changes.
 <a style="text-decoration:none;" href="https://github.com/ValentinaZangirolami"> <img src="https://img.shields.io/github/followers/ValentinaZangirolami?label=follow&style=social" width="10%"/></a>
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaZangirolami&theme=radical" />
-</p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValentinaZangirolami&theme=radical" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValentinaZangirolami&theme=radical" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValentinaZangirolami&theme=radical" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValentinaZangirolami&theme=radical" width="30%" />
 </p>
 
