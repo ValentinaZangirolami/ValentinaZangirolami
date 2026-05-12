@@ -23,11 +23,12 @@ You can click the Preview link to take a look at your changes.
 <a style="text-decoration:none;" href="https://github.com/ValentinaZangirolami"> <img src="https://img.shields.io/github/followers/ValentinaZangirolami?label=follow&style=social" width="10%"/></a>
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ValentinaZangirolami&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZangirolami&layout=compact&theme=radical" alt="Top Languages" width="36.5%">
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValentinaZangirolami&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValentinaZangirolami&theme=radical" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValentinaZangirolami&theme=radical" width="48%" />
+</p>
 
