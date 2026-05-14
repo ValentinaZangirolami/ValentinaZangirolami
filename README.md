@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valentina (乌缇娜) </h1>
 
+## Important updates for students from Statistica Decisioni aziendali course!!!
+
+Please, have a look of the readme for an important update: click [here](https://github.com/ValentinaZangirolami/Statistica_decisioni_aziendali/blob/main/README.md)
+
 ## About me
 - I'm a PhD student in Statistics at University of Milano-Bicocca
 - 👀 I’m interested in Reinforcement Learning and Statistical learning
