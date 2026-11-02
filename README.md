@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentina (乌缇娜) </h1>
 
 ## About me
-- I'm a PhD student in Statistics at University of Milano-Bicocca
+- I'm a Research fellow in Statistics at Institute for Applied Mathematics and Information Technologies “Enrico Magenes” (CNR-IMATI)
 - 👀 I’m interested in Reinforcement Learning and Statistical learning
 
 <p align="center">
